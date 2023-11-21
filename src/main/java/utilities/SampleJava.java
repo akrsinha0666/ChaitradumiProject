@@ -1,10 +1,7 @@
 package utilities;
 
 public class SampleJava {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
- System.out.println("Hellooooo");
-	}
-
+ public static void main(String[] args) {
+	System.out.println("hiiiwee");
+}
 }
