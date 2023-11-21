@@ -2,6 +2,7 @@ package demo11;
 
 public class DemoGithub {
 public static void main(String[] args) {
+	System.out.println("Hello");
 	int a = 10;
 	int b= 20 ;
 	int c= a+b;
@@ -12,5 +13,6 @@ public static void main(String[] args) {
 	System.out.println(b-a);
 	System.out.println(a*b);
 	System.out.println(c*a);
+	
 }
 }
