@@ -13,6 +13,7 @@ public static void main(String[] args) {
 	System.out.println(b-a);
 	System.out.println(a*b);
 	System.out.println(c*a);
+	System.out.println("I am  learning how to push to git hub");
 	
 }
 }
